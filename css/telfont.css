@@ -6,3 +6,7 @@
 :lang(tel) {
     font-family: font;
 }
+
+#menuObject {
+    font-size: 2em;
+}
