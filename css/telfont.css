@@ -1,6 +1,6 @@
 @font-face {
     font-family: font;
-    src: url('../fonts/chathura.ttf');
+    src: url('/fonts/chathura.ttf');
 }
 
 :lang(tel) {
