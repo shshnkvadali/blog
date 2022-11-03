@@ -1,1 +1,129 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://shshnkvadali.github.io/blog/</loc><lastmod>2020-08-15T00:00:00+00:00</lastmod><changefreq>always</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://shshnkvadali.github.io/blog/en/"/><xhtml:link rel="alternate" hreflang="tel" href="https://shshnkvadali.github.io/blog/"/></url><url><loc>https://shshnkvadali.github.io/blog/posts/getting-started-telugu/</loc><lastmod>2020-08-15T00:00:00+00:00</lastmod><changefreq>always</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://shshnkvadali.github.io/blog/en/posts/getting-started-english/"/><xhtml:link rel="alternate" hreflang="tel" href="https://shshnkvadali.github.io/blog/posts/getting-started-telugu/"/></url><url><loc>https://shshnkvadali.github.io/blog/news/</loc><lastmod>2020-08-15T00:00:00+00:00</lastmod><changefreq>always</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://shshnkvadali.github.io/blog/en/news/"/><xhtml:link rel="alternate" hreflang="tel" href="https://shshnkvadali.github.io/blog/news/"/></url><url><loc>https://shshnkvadali.github.io/blog/posts/</loc><lastmod>2020-08-15T00:00:00+00:00</lastmod><changefreq>always</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://shshnkvadali.github.io/blog/en/posts/"/><xhtml:link rel="alternate" hreflang="tel" href="https://shshnkvadali.github.io/blog/posts/"/></url><url><loc>https://shshnkvadali.github.io/blog/news/test-telugu/</loc><lastmod>2020-08-15T00:00:00+00:00</lastmod><changefreq>always</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://shshnkvadali.github.io/blog/en/news/test-englisdh/"/><xhtml:link rel="alternate" hreflang="tel" href="https://shshnkvadali.github.io/blog/news/test-telugu/"/></url><url><loc>https://shshnkvadali.github.io/blog/posts/test-telugu/</loc><lastmod>2020-08-15T00:00:00+00:00</lastmod><changefreq>always</changefreq><priority>0.5</priority><xhtml:link rel="alternate" hreflang="en" href="https://shshnkvadali.github.io/blog/en/posts/test-englisdh/"/><xhtml:link rel="alternate" hreflang="tel" href="https://shshnkvadali.github.io/blog/posts/test-telugu/"/></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://shshnkvadali.github.io/blog/</loc>
+            <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://shshnkvadali.github.io/blog/en/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tel"
+              href="https://shshnkvadali.github.io/blog/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://shshnkvadali.github.io/blog/posts/getting-started-telugu/</loc>
+            <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://shshnkvadali.github.io/blog/en/posts/getting-started-english/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tel"
+              href="https://shshnkvadali.github.io/blog/posts/getting-started-telugu/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://shshnkvadali.github.io/blog/news/</loc>
+            <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://shshnkvadali.github.io/blog/en/news/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tel"
+              href="https://shshnkvadali.github.io/blog/news/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://shshnkvadali.github.io/blog/posts/</loc>
+            <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://shshnkvadali.github.io/blog/en/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tel"
+              href="https://shshnkvadali.github.io/blog/posts/"
+              />
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://shshnkvadali.github.io/blog/news/test-telugu/</loc>
+            <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://shshnkvadali.github.io/blog/en/news/test-englisdh/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tel"
+              href="https://shshnkvadali.github.io/blog/news/test-telugu/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://shshnkvadali.github.io/blog/posts/test-telugu/</loc>
+            <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://shshnkvadali.github.io/blog/en/posts/test-englisdh/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="tel"
+              href="https://shshnkvadali.github.io/blog/posts/test-telugu/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+</urlset>
