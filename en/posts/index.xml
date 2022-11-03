@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blowfish</title>
+    <link>https://shshnkvadali.github.io/blog/en/posts/</link>
+    <description>Recent content in Posts on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright? :thinking_face:</copyright>
+    <lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://shshnkvadali.github.io/blog/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started - English</title>
+      <link>https://shshnkvadali.github.io/blog/en/posts/getting-started-english/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shshnkvadali.github.io/blog/en/posts/getting-started-english/</guid>
+      <description>The config files that ship with Blowfish contain all of the possible settings that the theme recognises. By default, many of these are commented out but you can simply uncomment them to activate or change a specific feature.</description>
+    </item>
+    
+    <item>
+      <title>Test English</title>
+      <link>https://shshnkvadali.github.io/blog/en/posts/test-englisdh/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shshnkvadali.github.io/blog/en/posts/test-englisdh/</guid>
+      <description>The config files that ship with Blowfish contain all of the possible settings that the theme recognises. By default, many of these are commented out but you can simply uncomment them to activate or change a specific feature.</description>
+    </item>
+    
+  </channel>
+</rss>
