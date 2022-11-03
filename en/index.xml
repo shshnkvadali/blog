@@ -15,7 +15,7 @@
       
       <guid>https://shshnkvadali.github.io/blog/en/posts/getting-started-english/</guid>
       <description>The config files that ship with Blowfish contain all of the possible settings that the theme recognises. By default, many of these are commented out but you can simply uncomment them to activate or change a specific feature.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shshnkvadali.github.io/blog/en/posts/getting-started-english/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shshnkvadali.github.io/blog/en/posts/getting-started-english/featured.webp" />
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       
       <guid>https://shshnkvadali.github.io/blog/en/news/test-englisdh/</guid>
       <description>The config files that ship with Blowfish contain all of the possible settings that the theme recognises. By default, many of these are commented out but you can simply uncomment them to activate or change a specific feature.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shshnkvadali.github.io/blog/en/news/test-englisdh/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shshnkvadali.github.io/blog/en/news/test-englisdh/featured.webp" />
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       
       <guid>https://shshnkvadali.github.io/blog/en/posts/test-englisdh/</guid>
       <description>The config files that ship with Blowfish contain all of the possible settings that the theme recognises. By default, many of these are commented out but you can simply uncomment them to activate or change a specific feature.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shshnkvadali.github.io/blog/en/posts/test-englisdh/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://shshnkvadali.github.io/blog/en/posts/test-englisdh/featured.webp" />
     </item>
     
   </channel>
